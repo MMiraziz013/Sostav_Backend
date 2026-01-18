@@ -1,0 +1,1 @@
+"Copyright © 2026 Sostav.uz. All rights reserved. No part of this repository may be reproduced or distributed without permission."

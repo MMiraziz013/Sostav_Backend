@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sostav", "Sostav\Sostav.csproj", "{A96BDB47-8C92-42F7-9183-663244F8568A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sostav.Domain", "Sostav.Domain\Sostav.Domain.csproj", "{F7405FFA-E7BD-47E8-8355-3299B4E8F9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sostav.Application", "Sostav.Application\Sostav.Application.csproj", "{22F53DF6-F9A6-46FF-AF61-AEF85D0C6516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sostav.Infrastructure", "Sostav.Infrastructure\Sostav.Infrastructure.csproj", "{F8A2F314-7CD5-4F47-B62A-C8B91A21E484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96BDB47-8C92-42F7-9183-663244F8568A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96BDB47-8C92-42F7-9183-663244F8568A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96BDB47-8C92-42F7-9183-663244F8568A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96BDB47-8C92-42F7-9183-663244F8568A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7405FFA-E7BD-47E8-8355-3299B4E8F9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7405FFA-E7BD-47E8-8355-3299B4E8F9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7405FFA-E7BD-47E8-8355-3299B4E8F9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7405FFA-E7BD-47E8-8355-3299B4E8F9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F53DF6-F9A6-46FF-AF61-AEF85D0C6516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F53DF6-F9A6-46FF-AF61-AEF85D0C6516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F53DF6-F9A6-46FF-AF61-AEF85D0C6516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F53DF6-F9A6-46FF-AF61-AEF85D0C6516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A2F314-7CD5-4F47-B62A-C8B91A21E484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A2F314-7CD5-4F47-B62A-C8B91A21E484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A2F314-7CD5-4F47-B62A-C8B91A21E484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A2F314-7CD5-4F47-B62A-C8B91A21E484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

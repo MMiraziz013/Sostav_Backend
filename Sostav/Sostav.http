@@ -1,0 +1,6 @@
+@Sostav_HostAddress = http://localhost:5107
+
+GET {{Sostav_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
