@@ -2,9 +2,9 @@ name: CI - Build and Test
 
 on:
   push:
-    branches: [ main, develop, dev-Miraziz ]
+    branches: [ master, develop, dev-Miraziz ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 env:
   DOTNET_VERSION: '9.0.x'
