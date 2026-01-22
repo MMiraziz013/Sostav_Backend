@@ -487,3 +487,6 @@ $RECYCLE.BIN/
 frontend
 package.json
 package-lock.json
+
+# other files that should be ignored
+PROJECT_STRUCTURE.md
